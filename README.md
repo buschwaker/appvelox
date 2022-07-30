@@ -5,6 +5,16 @@
 
 # Проект для компании Appvelox
 
+## Задеплоенный проект
+
+Проверить проект https://buschwacker.pythonanywhere.com можно через любой известный сервис, например Postman.
+
+Логин/пароль администратора `admin`/`admin`
+
+Получить доступ к сервису можно с помощью POST запроса к https://buschwacker.pythonanywhere.com/auth/jwt/create/
+
+Посмотреть документацию можно тут [redoc](https://buschwacker.pythonanywhere.com/redoc/) или [swagger](https://buschwacker.pythonanywhere.com/swagger/).
+
 ## Задание
 
 Нужно было написать веб-сервис предоставляющий RESTful API для управления персональным
@@ -60,7 +70,7 @@
 
 ## Список эндпоинтов и их краткое описание:
 
-*Документация*
+Посмотреть документацию можно тут [redoc](https://buschwacker.pythonanywhere.com/redoc/) или [swagger](https://buschwacker.pythonanywhere.com/swagger/).
 
 1. `GET /api/tasks/` возвращает список невыполненных и непроваленных задач пользователя, отсортировано по приоритетности их выполнения(дедлайн близко).
 2. `POST /api/tasks/` создает задачу текущего пользователя, достаточно заполнить текст задачи, заголовок и дедлайн.
