@@ -26,7 +26,7 @@ jobs:
         # переход по директории appvelox
         cd appvelox
         # запуск юниттестов
-        python mange.py test
+        python manage.py test
         # выход из директории appvelox
         cd ..
     - name: Test tasks with flake8
