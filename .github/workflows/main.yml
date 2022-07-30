@@ -1,4 +1,4 @@
-name: tetrica-tasks workflow
+name: appvelox-tasks workflow
 
 on: [push]
 
