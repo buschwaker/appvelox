@@ -1,4 +1,4 @@
-![example workflow](https://github.com/buschwaker/tetrica_tasks/blob/main/.github/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/buschwaker/appvelox/actions/workflows/main.yml/badge.svg)
 [![](https://img.shields.io/badge/python-3.7.0-green)](https://img.shields.io/badge/python-3.7.0-green)
 [![](https://img.shields.io/badge/Django-2.2.16-yellowgreen)](https://img.shields.io/badge/Django-2.2.16-yellowgreen)
 [![](https://img.shields.io/badge/DRF-3.12.4-brightgreen)](https://img.shields.io/badge/DRF-3.12.4-brightgreen)
